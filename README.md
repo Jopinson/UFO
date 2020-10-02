@@ -16,4 +16,4 @@ I also added a filter for shape of the UFO, so we can know what kind of visitors
 Finally, you can get super specific and search with multiple filters!
 ![twothings](https://user-images.githubusercontent.com/68392225/94938382-5c97f480-0496-11eb-99d2-309db2cbcef2.png)
 ## The Truth... Is Out There
-
+Our webpage is designed to be easy to use and easy to navigate, to hopefully become the premire UFO information page! Not to say our webpage isn't without flaws, our biggest weaknesses at the moment are that our dataset is limited and we don't have a function built to tell users when they are inputting wrong or missing data. In future updates we would like to build out a warning for wrong data input, and a submission box to allow users to add their own UFO experiences to our site! 
