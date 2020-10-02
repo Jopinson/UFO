@@ -2,7 +2,7 @@
 My good friend Dana got a new job, reporting on UFO sightings! She has asked me to put together a webpage with Javascript that can sort/filter through user inputed criteria to look at various UFO sightings across the country! Our Webpage includes a dynamic table that users can input their own search criteria for UFO sightings. 
 ## UFO Sightings 101
 Upon visiting our webpage you are greeted by message from W. Avy, a UFO-enthusiast and amateur ufologist as well as Local CEO and vocal anti-alien activist V. Isualize.
-Scroll down the page and you will see the UFO search feature.
+Once a user scrolls down the page and they will see the UFO search feature. 
 In the first box you can input a date, which will bring up every sighting of UFOs on that date. 
 ![date](https://user-images.githubusercontent.com/68392225/94874467-b0afc400-0417-11eb-8963-76634a4eec82.png)
 You can also search by locations like a city. Enter a city name and see how many times UFO's have visited that city.
